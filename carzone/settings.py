@@ -44,6 +44,7 @@ INSTALLED_APPS = [
     'cars',
     'contacts',
     'photos',
+    'ckeditor',
 ]
 
 MIDDLEWARE = [
